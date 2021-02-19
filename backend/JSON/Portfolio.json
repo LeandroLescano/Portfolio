@@ -1,0 +1,15 @@
+[
+    {
+        "name": "The Fat Monkey",
+        "description": "Página catálogo para un emprendimiento. Realizada utilizando ReactJS y Firebase",
+        "image": "https://i.gyazo.com/f9382a2163bf60f69fb5bd680b36f06e.jpg",
+        "link" : "https://thefatmonkeydeco.com.ar/"
+    },
+    {
+        "name": "Generador de descuentos",
+        "description": "Página que procesa archivos CSV para luego generar otro archivo CSV para cargar descuentos en un sistema externo. Realizada utilizando ReactJS",
+        "image": "https://i.gyazo.com/137c3f1c30832b71426e088b6eee7575.png",
+        "link": "https://generador-descuentos.firebaseapp.com/"
+    }
+
+]
